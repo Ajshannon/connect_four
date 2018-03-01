@@ -1,0 +1,5 @@
+#boardDiv {display: flex; width: 720px; height: 650px;}
+.column {width: 100px; height: 600px; border: 1px solid black; margin: 0; display: flex; flex-direction: column-reverse;}
+.disc {width:80px; height: 80px; margin: 10px; border-radius: 40px;}
+.red {background: red;}
+.black {background: black;}
